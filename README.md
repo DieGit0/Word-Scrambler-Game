@@ -1,2 +1,4 @@
 # Word Scrambler Game
-This project implements a game whose goal is the player to guess shuffled words. The game runs on the console and has 3 difficulty modes. There is also the option of asking for help to use your points to make the challenge even more fun.
+This project was a requirement to obtain the Java Object Orientation Certificate on the Coursera Platform.
+It is a Word Shuffler game whose objective is for the player to guess the scrambled words. 
+I've implemented three levels of difficulty and there's also the option to ask for help using your points as the game gets even more challenging and fun.
